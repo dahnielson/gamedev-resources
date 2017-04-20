@@ -58,3 +58,19 @@
 - [GDC 2015: Game Design](http://www.gdcvault.com/free/gdc-15/?categories=De&media=v)
 - [GDC 2016: Game Design](http://www.gdcvault.com/free/gdc-16/?categories=De&media=v)
 - [GDC 2017: Game Design](http://www.gdcvault.com/free/gdc-17/?categories=De&media=v)
+
+### GDC: Programming
+
+- [GDC 2001: Programming](http://www.gdcvault.com/free/gdc-01/?categories=Pg&media=v)
+- [GDC 2003: Programming](http://www.gdcvault.com/free/gdc-03/?categories=Pg&media=v)
+- [GDC 2004: Programming](http://www.gdcvault.com/free/gdc-04/?categories=Pg&media=v)
+- [GDC 2005: Programming](http://www.gdcvault.com/free/gdc-05/?categories=Pg&media=v)
+- [GDC 2009: Programming](http://www.gdcvault.com/free/gdc-09/?categories=Pg&media=v)
+- [GDC 2010: Programming](http://www.gdcvault.com/free/gdc-10/?categories=Pg&media=v)
+- [GDC 2011: Programming](http://www.gdcvault.com/free/gdc-11/?categories=Pg&media=v)
+- [GDC 2012: Programming](http://www.gdcvault.com/free/gdc-12/?categories=Pg&media=v)
+- [GDC 2013: Programming](http://www.gdcvault.com/free/gdc-13/?categories=Pg&media=v)
+- [GDC 2014: Programming](http://www.gdcvault.com/free/gdc-14/?categories=Pg&media=v)
+- [GDC 2015: Programming](http://www.gdcvault.com/free/gdc-15/?categories=Pg&media=v)
+- [GDC 2016: Programming](http://www.gdcvault.com/free/gdc-16/?categories=Pg&media=v)
+- [GDC 2017: Programming](http://www.gdcvault.com/free/gdc-17/?categories=Pg&media=v)

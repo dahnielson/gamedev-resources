@@ -1,6 +1,6 @@
 # Game Development Resources
 
-## Game Design
+## Level Design
 
 - [Everything I Learned About Level Design I Learned from Disneyland (GDC 2009)](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level)
 

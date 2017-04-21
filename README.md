@@ -9,10 +9,15 @@
 - [AI and Interactive Storytelling (GDC 2010)](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How)
 - [Procedural Narrative (GDC 2017)](http://gdcvault.com/play/1024143/Procedural-Narrative)
 
-## PCG
+## Procedural Content Generation
 
 - [Making Things Up (GDC 2015)](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power)
 - [PCG Shotgun (GDC 2017)](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for)
+
+## AI Planner
+
+- [Pyhop](https://bitbucket.org/dananau/pyhop) -- HTN planner in Python
+- [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf) -- Presentation about HTN planners and Pyhop
 
 ## GDC (Videos)
 

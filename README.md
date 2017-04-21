@@ -14,10 +14,11 @@
 - [Making Things Up (GDC 2015)](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power)
 - [PCG Shotgun (GDC 2017)](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for)
 
-## Planner
+## Planning
 
 - [Pyhop](https://bitbucket.org/dananau/pyhop) -- HTN planner in Python
 - [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf) -- Presentation about HTN planners and Pyhop
+- [Automated Planning: Theory and Practice (Slides)](http://www.cs.umd.edu/~nau/planning/slides/)
 
 ## AI
 

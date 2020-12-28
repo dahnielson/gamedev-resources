@@ -38,6 +38,9 @@
 - [GDC 2015: AI Summit](http://www.gdcvault.com/free/gdc-15/?categories=Ai&media=v)
 - [GDC 2016: AI Summit](http://www.gdcvault.com/free/gdc-16/?categories=Ai&media=v)
 - [GDC 2017: AI Summit](http://www.gdcvault.com/free/gdc-17/?categories=Ai&media=v)
+- [GDC 2018: AI Summit](http://www.gdcvault.com/free/gdc-18/?categories=Ai&media=v)
+- [GDC 2019: AI Summit](http://www.gdcvault.com/free/gdc-19/?categories=Ai&media=v)
+- [GDC 2020: AI Summit](http://www.gdcvault.com/free/gdc-20/?categories=Ai&media=v)
 
 ### GDC: Visual Arts
 
@@ -50,6 +53,9 @@
 - [GDC 2015: Visual Arts](http://www.gdcvault.com/free/gdc-15/?categories=Va&media=v)
 - [GDC 2016: Visual Arts](http://www.gdcvault.com/free/gdc-16/?categories=Va&media=v)
 - [GDC 2017: Visual Arts](http://www.gdcvault.com/free/gdc-17/?categories=Va&media=v)
+- [GDC 2018: Visual Arts](http://www.gdcvault.com/free/gdc-18/?categories=Va&media=v)
+- [GDC 2019: Visual Arts](http://www.gdcvault.com/free/gdc-19/?categories=Va&media=v)
+- [GDC 2020: Visual Arts](http://www.gdcvault.com/free/gdc-20/?categories=Va&media=v)
 
 ### GDC: Game Design
 
@@ -69,6 +75,9 @@
 - [GDC 2015: Game Design](http://www.gdcvault.com/free/gdc-15/?categories=De&media=v)
 - [GDC 2016: Game Design](http://www.gdcvault.com/free/gdc-16/?categories=De&media=v)
 - [GDC 2017: Game Design](http://www.gdcvault.com/free/gdc-17/?categories=De&media=v)
+- [GDC 2018: Game Design](http://www.gdcvault.com/free/gdc-18/?categories=De&media=v)
+- [GDC 2019: Game Design](http://www.gdcvault.com/free/gdc-19/?categories=De&media=v)
+- [GDC 2020: Game Design](http://www.gdcvault.com/free/gdc-20/?categories=De&media=v)
 
 ### GDC: Programming
 
@@ -85,3 +94,6 @@
 - [GDC 2015: Programming](http://www.gdcvault.com/free/gdc-15/?categories=Pg&media=v)
 - [GDC 2016: Programming](http://www.gdcvault.com/free/gdc-16/?categories=Pg&media=v)
 - [GDC 2017: Programming](http://www.gdcvault.com/free/gdc-17/?categories=Pg&media=v)
+- [GDC 2018: Programming](http://www.gdcvault.com/free/gdc-18/?categories=Pg&media=v)
+- [GDC 2019: Programming](http://www.gdcvault.com/free/gdc-19/?categories=Pg&media=v)
+- [GDC 2020: Programming](http://www.gdcvault.com/free/gdc-20/?categories=Pg&media=v)

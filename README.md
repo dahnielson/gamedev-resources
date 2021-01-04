@@ -97,3 +97,18 @@
 - [GDC 2018: Programming](http://www.gdcvault.com/free/gdc-18/?categories=Pg&media=v)
 - [GDC 2019: Programming](http://www.gdcvault.com/free/gdc-19/?categories=Pg&media=v)
 - [GDC 2020: Programming](http://www.gdcvault.com/free/gdc-20/?categories=Pg&media=v)
+
+### GDC: Audio
+
+- [GDC 2009: Audio](http://www.gdcvault.com/free/gdc-09/?categories=Au&media=v)
+- [GDC 2010: Audio](http://www.gdcvault.com/free/gdc-10/?categories=Au&media=v)
+- [GDC 2011: Audio](http://www.gdcvault.com/free/gdc-11/?categories=Au&media=v)
+- [GDC 2012: Audio](http://www.gdcvault.com/free/gdc-12/?categories=Au&media=v)
+- [GDC 2013: Audio](http://www.gdcvault.com/free/gdc-13/?categories=Au&media=v)
+- [GDC 2014: Audio](http://www.gdcvault.com/free/gdc-14/?categories=Au&media=v)
+- [GDC 2015: Audio](http://www.gdcvault.com/free/gdc-15/?categories=Au&media=v)
+- [GDC 2016: Audio](http://www.gdcvault.com/free/gdc-16/?categories=Au&media=v)
+- [GDC 2017: Audio](http://www.gdcvault.com/free/gdc-17/?categories=Au&media=v)
+- [GDC 2018: Audio](http://www.gdcvault.com/free/gdc-18/?categories=Au&media=v)
+- [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
+- [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)

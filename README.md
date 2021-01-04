@@ -27,6 +27,21 @@
 
 ## GDC (Videos)
 
+### GDC: Audio
+
+- [GDC 2009: Audio](http://www.gdcvault.com/free/gdc-09/?categories=Au&media=v)
+- [GDC 2010: Audio](http://www.gdcvault.com/free/gdc-10/?categories=Au&media=v)
+- [GDC 2011: Audio](http://www.gdcvault.com/free/gdc-11/?categories=Au&media=v)
+- [GDC 2012: Audio](http://www.gdcvault.com/free/gdc-12/?categories=Au&media=v)
+- [GDC 2013: Audio](http://www.gdcvault.com/free/gdc-13/?categories=Au&media=v)
+- [GDC 2014: Audio](http://www.gdcvault.com/free/gdc-14/?categories=Au&media=v)
+- [GDC 2015: Audio](http://www.gdcvault.com/free/gdc-15/?categories=Au&media=v)
+- [GDC 2016: Audio](http://www.gdcvault.com/free/gdc-16/?categories=Au&media=v)
+- [GDC 2017: Audio](http://www.gdcvault.com/free/gdc-17/?categories=Au&media=v)
+- [GDC 2018: Audio](http://www.gdcvault.com/free/gdc-18/?categories=Au&media=v)
+- [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
+- [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)
+
 ### GDC: AI Summit
 
 - [GDC 2009: AI Summit](http://www.gdcvault.com/free/gdc-09/?categories=Ai&media=v)
@@ -41,21 +56,6 @@
 - [GDC 2018: AI Summit](http://www.gdcvault.com/free/gdc-18/?categories=Ai&media=v)
 - [GDC 2019: AI Summit](http://www.gdcvault.com/free/gdc-19/?categories=Ai&media=v)
 - [GDC 2020: AI Summit](http://www.gdcvault.com/free/gdc-20/?categories=Ai&media=v)
-
-### GDC: Visual Arts
-
-- [GDC 2009: Visual Arts](http://www.gdcvault.com/free/gdc-09/?categories=Va&media=v)
-- [GDC 2010: Visual Arts](http://www.gdcvault.com/free/gdc-10/?categories=Va&media=v)
-- [GDC 2011: Visual Arts](http://www.gdcvault.com/free/gdc-11/?categories=Va&media=v)
-- [GDC 2012: Visual Arts](http://www.gdcvault.com/free/gdc-12/?categories=Va&media=v)
-- [GDC 2013: Visual Arts](http://www.gdcvault.com/free/gdc-13/?categories=Va&media=v)
-- [GDC 2014: Visual Arts](http://www.gdcvault.com/free/gdc-14/?categories=Va&media=v)
-- [GDC 2015: Visual Arts](http://www.gdcvault.com/free/gdc-15/?categories=Va&media=v)
-- [GDC 2016: Visual Arts](http://www.gdcvault.com/free/gdc-16/?categories=Va&media=v)
-- [GDC 2017: Visual Arts](http://www.gdcvault.com/free/gdc-17/?categories=Va&media=v)
-- [GDC 2018: Visual Arts](http://www.gdcvault.com/free/gdc-18/?categories=Va&media=v)
-- [GDC 2019: Visual Arts](http://www.gdcvault.com/free/gdc-19/?categories=Va&media=v)
-- [GDC 2020: Visual Arts](http://www.gdcvault.com/free/gdc-20/?categories=Va&media=v)
 
 ### GDC: Game Design
 
@@ -98,17 +98,17 @@
 - [GDC 2019: Programming](http://www.gdcvault.com/free/gdc-19/?categories=Pg&media=v)
 - [GDC 2020: Programming](http://www.gdcvault.com/free/gdc-20/?categories=Pg&media=v)
 
-### GDC: Audio
+### GDC: Visual Arts
 
-- [GDC 2009: Audio](http://www.gdcvault.com/free/gdc-09/?categories=Au&media=v)
-- [GDC 2010: Audio](http://www.gdcvault.com/free/gdc-10/?categories=Au&media=v)
-- [GDC 2011: Audio](http://www.gdcvault.com/free/gdc-11/?categories=Au&media=v)
-- [GDC 2012: Audio](http://www.gdcvault.com/free/gdc-12/?categories=Au&media=v)
-- [GDC 2013: Audio](http://www.gdcvault.com/free/gdc-13/?categories=Au&media=v)
-- [GDC 2014: Audio](http://www.gdcvault.com/free/gdc-14/?categories=Au&media=v)
-- [GDC 2015: Audio](http://www.gdcvault.com/free/gdc-15/?categories=Au&media=v)
-- [GDC 2016: Audio](http://www.gdcvault.com/free/gdc-16/?categories=Au&media=v)
-- [GDC 2017: Audio](http://www.gdcvault.com/free/gdc-17/?categories=Au&media=v)
-- [GDC 2018: Audio](http://www.gdcvault.com/free/gdc-18/?categories=Au&media=v)
-- [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
-- [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)
+- [GDC 2009: Visual Arts](http://www.gdcvault.com/free/gdc-09/?categories=Va&media=v)
+- [GDC 2010: Visual Arts](http://www.gdcvault.com/free/gdc-10/?categories=Va&media=v)
+- [GDC 2011: Visual Arts](http://www.gdcvault.com/free/gdc-11/?categories=Va&media=v)
+- [GDC 2012: Visual Arts](http://www.gdcvault.com/free/gdc-12/?categories=Va&media=v)
+- [GDC 2013: Visual Arts](http://www.gdcvault.com/free/gdc-13/?categories=Va&media=v)
+- [GDC 2014: Visual Arts](http://www.gdcvault.com/free/gdc-14/?categories=Va&media=v)
+- [GDC 2015: Visual Arts](http://www.gdcvault.com/free/gdc-15/?categories=Va&media=v)
+- [GDC 2016: Visual Arts](http://www.gdcvault.com/free/gdc-16/?categories=Va&media=v)
+- [GDC 2017: Visual Arts](http://www.gdcvault.com/free/gdc-17/?categories=Va&media=v)
+- [GDC 2018: Visual Arts](http://www.gdcvault.com/free/gdc-18/?categories=Va&media=v)
+- [GDC 2019: Visual Arts](http://www.gdcvault.com/free/gdc-19/?categories=Va&media=v)
+- [GDC 2020: Visual Arts](http://www.gdcvault.com/free/gdc-20/?categories=Va&media=v)

@@ -1,5 +1,9 @@
 # Game Development Resources
 
+## Game Design
+
+- Salen, Katie and Zimmerman, Eric. 2004. *[Rules of Play - Game Design Fundamentals]().* MIT Press.
+
 ## Level Design
 
 - Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland"](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level). Game Developers Conference, 2009.
@@ -36,6 +40,12 @@
 ## Programming
 
 - Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* CRC Press.
+
+## Physics
+
+- van den Bergen, Gino. 2003. *Collision Detection in Interactive 3D Environments*. Morgan Kaufmann Publishers.
+- Ericson, Christer. 2004. *Real-Time Collision Detection*. Morgan Kaufmann Publishers.
+- Millington, Ian. 2006. *Game Physics Engine Development*. Morgan Kaufmann Publishers.
 
 ## GDC Vault (Free videos)
 

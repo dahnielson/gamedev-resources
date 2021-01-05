@@ -29,6 +29,10 @@
 
 - [A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music)
 
+## Programming
+
+- [Game Engine Architecture](https://www.gameenginebook.com/)
+
 ## GDC (Videos)
 
 ### GDC: Audio

@@ -2,7 +2,7 @@
 
 ## Level Design
 
-- Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland".](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level) Game Developers Conference, 2009.
+- Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland"](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level). Game Developers Conference, 2009.
 
 ## Narrative Generation
 
@@ -12,8 +12,8 @@
 
 ## Procedural Content Generation
 
-- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG".](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power) Game Developers Conference, 2015.
-- Coleman, Tyler, Aikman, Zach, Short, Tanya, Adams, Tarn, Khandaker-Kokoris, Mitu and Kruel, Luiz. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation".](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for) Game Developers Conference, 2017.
+- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). Game Developers Conference, 2015.
+- Coleman, Tyler, Aikman, Zach, Short, Tanya, Adams, Tarn, Khandaker-Kokoris, Mitu and Kruel, Luiz. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). Game Developers Conference, 2017.
 
 ## Planning
 
@@ -31,7 +31,7 @@
 ## Music
 
 - Phillips, Winifred. 2014. *[A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music).* MIT Press.
-- Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes".](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to) Game Developers Conferance, 2020.
+- Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes"](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to). Game Developers Conferance, 2020.
 
 ## Programming
 

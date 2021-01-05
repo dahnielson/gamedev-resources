@@ -27,11 +27,11 @@
 
 ## Music
 
-- [A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music)
+- Phillips, Winifred. 2014. *[A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music).* MIT Press.
 
 ## Programming
 
-- [Game Engine Architecture](https://www.gameenginebook.com/)
+- Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* CRC Press.
 
 ## GDC (Videos)
 

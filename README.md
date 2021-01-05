@@ -6,8 +6,9 @@
 
 ## Narrative Generation
 
-- Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other".](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How) Game Developers Conference, 2010.
-- Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation".](http://gdcvault.com/play/1024143/Procedural-Narrative) Game Developers Conference, 2017.
+- Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation"](http://gdcvault.com/play/1024143/Procedural-Narrative). Game Developers Conference, 2017.
+- Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other"](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How). Game Developers Conference, 2010.
+-	Szczepanski, Leszek. ["Building Non-linear Narratives in 'Horizon: Zero Dawn'"](https://www.gdcvault.com/play/1024158/Building-Non-linear-Narratives-in). Game Developers Conferance, 2017.
 
 ## Procedural Content Generation
 

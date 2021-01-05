@@ -25,6 +25,10 @@
 
 - [Game AI Pro](http://www.gameaipro.com/)
 
+## Music
+
+- [A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music)
+
 ## GDC (Videos)
 
 ### GDC: Audio

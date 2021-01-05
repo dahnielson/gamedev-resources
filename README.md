@@ -2,7 +2,7 @@
 
 ## Game Design
 
-- Salen, Katie and Zimmerman, Eric. 2004. *[Rules of Play - Game Design Fundamentals]().* MIT Press.
+- Salen, Katie and Zimmerman, Eric. 2004. *Rules of Play - Game Design Fundamentals.* MIT Press.
 
 ## Level Design
 

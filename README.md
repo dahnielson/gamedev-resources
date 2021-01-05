@@ -2,17 +2,17 @@
 
 ## Level Design
 
-- [Everything I Learned About Level Design I Learned from Disneyland (GDC 2009)](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level)
+- Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland".](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level) Game Developers Conference, 2009.
 
 ## Narrative Generation
 
-- [AI and Interactive Storytelling (GDC 2010)](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How)
-- [Procedural Narrative (GDC 2017)](http://gdcvault.com/play/1024143/Procedural-Narrative)
+- Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other".](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How) Game Developers Conference, 2010.
+- Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation."](http://gdcvault.com/play/1024143/Procedural-Narrative) Game Developers Conference, 2017.
 
 ## Procedural Content Generation
 
-- [Making Things Up (GDC 2015)](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power)
-- [PCG Shotgun (GDC 2017)](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for)
+- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG".)](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power) Game Developers Conference, 2015.
+- Coleman, Tyler, Aikman, Zach, Short, Tanya, Adams, Tarn, Khandaker-Kokoris, Mitu and Kruel, Luiz. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation".](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for) Game Developers Conference, 2017.
 
 ## Planning
 

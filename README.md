@@ -23,7 +23,9 @@
 
 ## AI
 
-- [Game AI Pro](http://www.gameaipro.com/)
+- Rabin, Steve. 2013. *[Game AI Pro](http://www.gameaipro.com/).*
+- Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).*
+- Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).*
 
 ## Music
 

@@ -11,7 +11,7 @@
 
 ## Procedural Content Generation
 
-- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG".)](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power) Game Developers Conference, 2015.
+- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG".](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power) Game Developers Conference, 2015.
 - Coleman, Tyler, Aikman, Zach, Short, Tanya, Adams, Tarn, Khandaker-Kokoris, Mitu and Kruel, Luiz. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation".](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for) Game Developers Conference, 2017.
 
 ## Planning

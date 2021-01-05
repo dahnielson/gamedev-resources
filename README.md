@@ -35,7 +35,7 @@
 
 - Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* CRC Press.
 
-## GDC (Free videos)
+## GDC Vault (Free videos)
 
 ### GDC: Audio
 

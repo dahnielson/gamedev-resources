@@ -30,7 +30,7 @@
 ## Music
 
 - Phillips, Winifred. 2014. *[A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music).* MIT Press.
-- Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes".](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to). Game Developers Conferance, 2020.
+- Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes".](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to) Game Developers Conferance, 2020.
 
 ## Programming
 

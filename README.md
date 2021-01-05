@@ -19,18 +19,18 @@
 - Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). Game Developers Conference, 2015.
 - Coleman, Tyler, et al. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). Game Developers Conference, 2017.
 
-## Planning
-
-- [Exploring HTN Planners Through Example (Game AI Pro 1, Chapter 12)](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
-- [Pyhop](https://bitbucket.org/dananau/pyhop), a HTN planner implemented in Python
-- [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf), presentation about HTN planners and Pyhop
-- [Automated Planning: Theory and Practice (Slides)](http://www.cs.umd.edu/~nau/planning/slides/)
-
 ## AI
 
 - Rabin, Steve. 2013. *[Game AI Pro](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).* CRC Press.
+
+### Planning
+
+- [Exploring HTN Planners Through Example (Game AI Pro 1, Chapter 12)](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
+- [Pyhop](https://bitbucket.org/dananau/pyhop), a HTN planner implemented in Python
+- [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf), presentation about HTN planners and Pyhop
+- [Automated Planning: Theory and Practice (Slides)](http://www.cs.umd.edu/~nau/planning/slides/)
 
 ## Music
 
@@ -41,7 +41,7 @@
 
 - Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* CRC Press.
 
-## Physics
+### Physics
 
 - van den Bergen, Gino. 2003. *Collision Detection in Interactive 3D Environments*. Morgan Kaufmann Publishers.
 - Ericson, Christer. 2004. *Real-Time Collision Detection*. Morgan Kaufmann Publishers.

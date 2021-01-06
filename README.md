@@ -49,7 +49,7 @@
 
 ## GDC Vault (Free videos)
 
-### GDC: Audio Summit
+### GDC: Audio
 
 - [GDC 2009: Audio](http://www.gdcvault.com/free/gdc-09/?categories=Au&media=v)
 - [GDC 2010: Audio](http://www.gdcvault.com/free/gdc-10/?categories=Au&media=v)
@@ -64,7 +64,7 @@
 - [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
 - [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)
 
-### GDC: AI Summit
+### GDC: AI
 
 - [GDC 2009: AI Summit](http://www.gdcvault.com/free/gdc-09/?categories=Ai&media=v)
 - [GDC 2010: AI Summit](http://www.gdcvault.com/free/gdc-10/?categories=Ai&media=v)
@@ -79,7 +79,7 @@
 - [GDC 2019: AI Summit](http://www.gdcvault.com/free/gdc-19/?categories=Ai&media=v)
 - [GDC 2020: AI Summit](http://www.gdcvault.com/free/gdc-20/?categories=Ai&media=v)
 
-### GDC: Design Summit
+### GDC: Design
 
 - [GDC 2001: Game Design](http://www.gdcvault.com/free/gdc-01/?categories=De&media=v)
 - [GDC 2002: Game Design](http://www.gdcvault.com/free/gdc-02/?categories=De&media=v)
@@ -101,7 +101,7 @@
 - [GDC 2019: Game Design](http://www.gdcvault.com/free/gdc-19/?categories=De&media=v)
 - [GDC 2020: Game Design](http://www.gdcvault.com/free/gdc-20/?categories=De&media=v)
 
-### GDC: Programming Summit
+### GDC: Programming
 
 - [GDC 2001: Programming](http://www.gdcvault.com/free/gdc-01/?categories=Pg&media=v)
 - [GDC 2003: Programming](http://www.gdcvault.com/free/gdc-03/?categories=Pg&media=v)
@@ -120,7 +120,7 @@
 - [GDC 2019: Programming](http://www.gdcvault.com/free/gdc-19/?categories=Pg&media=v)
 - [GDC 2020: Programming](http://www.gdcvault.com/free/gdc-20/?categories=Pg&media=v)
 
-### GDC: Visual Arts Summit
+### GDC: Visual Arts
 
 - [GDC 2009: Visual Arts](http://www.gdcvault.com/free/gdc-09/?categories=Va&media=v)
 - [GDC 2010: Visual Arts](http://www.gdcvault.com/free/gdc-10/?categories=Va&media=v)

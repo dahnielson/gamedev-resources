@@ -2,6 +2,7 @@
 
 ## AI
 
+- Millington, Ian and Funge, John. 2009. *Artificial Intelligence for Games.* Second edition. Morgan Kaufmann Publishers.
 - Rabin, Steve. 2013. *[Game AI Pro](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).* CRC Press.
@@ -27,6 +28,10 @@ Institute for Systems Research, University of Maryland, 2013.
 ### Behavior Trees
 
 - Thompson, Tommy. 2015. ["The Behaviour Tree AI of Halo 2"](https://www.youtube.com/watch?v=NU717sd8oUc). AI and Games, YouTube.
+
+### Utility Functions
+
+- Mark, Dave. 2009. *Behavioral Mathematics for Game AI.* Charles River Media.
 
 ## Audio
 
@@ -58,7 +63,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ## Programming
 
-- Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* CRC Press.
+- Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* Third edition. CRC Press.
 
 ### Physics
 

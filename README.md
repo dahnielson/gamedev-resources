@@ -8,7 +8,9 @@
 
 - Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland"](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level). Game Design, Game Developers Conference, 2009.
 
-## Narrative Generation
+## Narrative
+
+### Narrative Generation
 
 - Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation"](http://gdcvault.com/play/1024143/Procedural-Narrative). Game Narrative Summit, Game Developers Conference, 2017.
 - Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other"](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How). AI Summit, Game Developers Conference, 2010.
@@ -32,7 +34,9 @@
 - [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf), presentation about HTN planners and Pyhop
 - [Automated Planning: Theory and Practice (Slides)](http://www.cs.umd.edu/~nau/planning/slides/)
 
-## Music
+## Audio
+
+### Music
 
 - Phillips, Winifred. 2014. *[A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music).* MIT Press.
 - Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes"](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to). Audio, Game Developers Conferance, 2020.

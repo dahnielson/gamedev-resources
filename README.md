@@ -8,7 +8,8 @@
 
 ### Automated Planning
 
-- [Automated Planning: Theory and Practice (Slides)](http://www.cs.umd.edu/~nau/planning/slides/)
+- Nau, Dana. ["Automated Planning: Theory and Practice"](http://www.cs.umd.edu/~nau/planning/slides/). Department of Computer Science and
+Institute for Systems Research, University of Maryland, 2013.
 
 #### Hierarchical Task Network Planning
 

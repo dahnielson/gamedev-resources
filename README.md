@@ -44,7 +44,7 @@ Institute for Systems Research, University of Maryland, 2013.
 - Orkin, Jeff. n.d. ["Goal-Oriented Action Planning (GOAP)"](http://alumni.media.mit.edu/~jorkin/goap.html). MIT.
 - Thompson, Tommy. 2020. ["Building the AI of F.E.A.R. with Goal Oriented Action Planning"](https://www.gamasutra.com/blogs/TommyThompson/20200507/362417/Building_the_AI_of_FEAR_with_Goal_Oriented_Action_Planning.php). Gamasutra.
 
-## Behavior Trees
+### Behavior Trees
 
 - Thompson, Tommy. 2015. ["The Behaviour Tree AI of Halo 2"](https://www.youtube.com/watch?v=NU717sd8oUc). AI and Games, YouTube.
 

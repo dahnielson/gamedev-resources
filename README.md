@@ -27,7 +27,7 @@
 - Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).* CRC Press.
 
-### HTN Planning
+### Hierarchical Task Network Planning
 
 - [Exploring HTN Planners Through Example (Game AI Pro 1, Chapter 12)](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
 - [Pyhop](https://bitbucket.org/dananau/pyhop), a HTN planner implemented in Python

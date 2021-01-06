@@ -49,21 +49,6 @@
 
 ## GDC Vault (Free videos)
 
-### GDC: Audio
-
-- [GDC 2009: Audio](http://www.gdcvault.com/free/gdc-09/?categories=Au&media=v)
-- [GDC 2010: Audio](http://www.gdcvault.com/free/gdc-10/?categories=Au&media=v)
-- [GDC 2011: Audio](http://www.gdcvault.com/free/gdc-11/?categories=Au&media=v)
-- [GDC 2012: Audio](http://www.gdcvault.com/free/gdc-12/?categories=Au&media=v)
-- [GDC 2013: Audio](http://www.gdcvault.com/free/gdc-13/?categories=Au&media=v)
-- [GDC 2014: Audio](http://www.gdcvault.com/free/gdc-14/?categories=Au&media=v)
-- [GDC 2015: Audio](http://www.gdcvault.com/free/gdc-15/?categories=Au&media=v)
-- [GDC 2016: Audio](http://www.gdcvault.com/free/gdc-16/?categories=Au&media=v)
-- [GDC 2017: Audio](http://www.gdcvault.com/free/gdc-17/?categories=Au&media=v)
-- [GDC 2018: Audio](http://www.gdcvault.com/free/gdc-18/?categories=Au&media=v)
-- [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
-- [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)
-
 ### GDC: AI
 
 - [GDC 2009: AI Summit](http://www.gdcvault.com/free/gdc-09/?categories=Ai&media=v)
@@ -78,6 +63,21 @@
 - [GDC 2018: AI Summit](http://www.gdcvault.com/free/gdc-18/?categories=Ai&media=v)
 - [GDC 2019: AI Summit](http://www.gdcvault.com/free/gdc-19/?categories=Ai&media=v)
 - [GDC 2020: AI Summit](http://www.gdcvault.com/free/gdc-20/?categories=Ai&media=v)
+
+### GDC: Audio
+
+- [GDC 2009: Audio](http://www.gdcvault.com/free/gdc-09/?categories=Au&media=v)
+- [GDC 2010: Audio](http://www.gdcvault.com/free/gdc-10/?categories=Au&media=v)
+- [GDC 2011: Audio](http://www.gdcvault.com/free/gdc-11/?categories=Au&media=v)
+- [GDC 2012: Audio](http://www.gdcvault.com/free/gdc-12/?categories=Au&media=v)
+- [GDC 2013: Audio](http://www.gdcvault.com/free/gdc-13/?categories=Au&media=v)
+- [GDC 2014: Audio](http://www.gdcvault.com/free/gdc-14/?categories=Au&media=v)
+- [GDC 2015: Audio](http://www.gdcvault.com/free/gdc-15/?categories=Au&media=v)
+- [GDC 2016: Audio](http://www.gdcvault.com/free/gdc-16/?categories=Au&media=v)
+- [GDC 2017: Audio](http://www.gdcvault.com/free/gdc-17/?categories=Au&media=v)
+- [GDC 2018: Audio](http://www.gdcvault.com/free/gdc-18/?categories=Au&media=v)
+- [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
+- [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)
 
 ### GDC: Design
 
@@ -100,6 +100,17 @@
 - [GDC 2018: Game Design](http://www.gdcvault.com/free/gdc-18/?categories=De&media=v)
 - [GDC 2019: Game Design](http://www.gdcvault.com/free/gdc-19/?categories=De&media=v)
 - [GDC 2020: Game Design](http://www.gdcvault.com/free/gdc-20/?categories=De&media=v)
+
+### GDC: Game Narrative
+
+- [GDC 2013: Game Design](http://www.gdcvault.com/free/gdc-13/?categories=Gn&media=v)
+- [GDC 2014: Game Design](http://www.gdcvault.com/free/gdc-14/?categories=Gn&media=v)
+- [GDC 2015: Game Design](http://www.gdcvault.com/free/gdc-15/?categories=Gn&media=v)
+- [GDC 2016: Game Design](http://www.gdcvault.com/free/gdc-16/?categories=Gn&media=v)
+- [GDC 2017: Game Design](http://www.gdcvault.com/free/gdc-17/?categories=Gn&media=v)
+- [GDC 2018: Game Design](http://www.gdcvault.com/free/gdc-18/?categories=Gn&media=v)
+- [GDC 2019: Game Design](http://www.gdcvault.com/free/gdc-19/?categories=Gn&media=v)
+- [GDC 2020: Game Design](http://www.gdcvault.com/free/gdc-20/?categories=Gn&media=v)
 
 ### GDC: Programming
 

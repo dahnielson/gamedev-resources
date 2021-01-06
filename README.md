@@ -1,6 +1,6 @@
 # Game Development Resources
 
-## Game Design
+## Design
 
 - Salen, Katie and Zimmerman, Eric. 2004. *Rules of Play - Game Design Fundamentals.* MIT Press.
 
@@ -99,36 +99,36 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ### GDC: Design
 
-- [GDC 2001: Game Design](http://www.gdcvault.com/free/gdc-01/?categories=De&media=v)
-- [GDC 2002: Game Design](http://www.gdcvault.com/free/gdc-02/?categories=De&media=v)
-- [GDC 2003: Game Design](http://www.gdcvault.com/free/gdc-03/?categories=De&media=v)
-- [GDC 2004: Game Design](http://www.gdcvault.com/free/gdc-04/?categories=De&media=v)
-- [GDC 2006: Game Design](http://www.gdcvault.com/free/gdc-06/?categories=De&media=v)
-- [GDC 2007: Game Design](http://www.gdcvault.com/free/gdc-07/?categories=De&media=v)
-- [GDC 2008: Game Design](http://www.gdcvault.com/free/gdc-08/?categories=De&media=v)
-- [GDC 2009: Game Design](http://www.gdcvault.com/free/gdc-09/?categories=De&media=v)
-- [GDC 2010: Game Design](http://www.gdcvault.com/free/gdc-10/?categories=De&media=v)
-- [GDC 2011: Game Design](http://www.gdcvault.com/free/gdc-11/?categories=De&media=v)
-- [GDC 2012: Game Design](http://www.gdcvault.com/free/gdc-12/?categories=De&media=v)
-- [GDC 2013: Game Design](http://www.gdcvault.com/free/gdc-13/?categories=De&media=v)
-- [GDC 2014: Game Design](http://www.gdcvault.com/free/gdc-14/?categories=De&media=v)
-- [GDC 2015: Game Design](http://www.gdcvault.com/free/gdc-15/?categories=De&media=v)
-- [GDC 2016: Game Design](http://www.gdcvault.com/free/gdc-16/?categories=De&media=v)
-- [GDC 2017: Game Design](http://www.gdcvault.com/free/gdc-17/?categories=De&media=v)
-- [GDC 2018: Game Design](http://www.gdcvault.com/free/gdc-18/?categories=De&media=v)
-- [GDC 2019: Game Design](http://www.gdcvault.com/free/gdc-19/?categories=De&media=v)
-- [GDC 2020: Game Design](http://www.gdcvault.com/free/gdc-20/?categories=De&media=v)
+- [GDC 2001: Design](http://www.gdcvault.com/free/gdc-01/?categories=De&media=v)
+- [GDC 2002: Design](http://www.gdcvault.com/free/gdc-02/?categories=De&media=v)
+- [GDC 2003: Design](http://www.gdcvault.com/free/gdc-03/?categories=De&media=v)
+- [GDC 2004: Design](http://www.gdcvault.com/free/gdc-04/?categories=De&media=v)
+- [GDC 2006: Design](http://www.gdcvault.com/free/gdc-06/?categories=De&media=v)
+- [GDC 2007: Design](http://www.gdcvault.com/free/gdc-07/?categories=De&media=v)
+- [GDC 2008: Design](http://www.gdcvault.com/free/gdc-08/?categories=De&media=v)
+- [GDC 2009: Design](http://www.gdcvault.com/free/gdc-09/?categories=De&media=v)
+- [GDC 2010: Design](http://www.gdcvault.com/free/gdc-10/?categories=De&media=v)
+- [GDC 2011: Design](http://www.gdcvault.com/free/gdc-11/?categories=De&media=v)
+- [GDC 2012: Design](http://www.gdcvault.com/free/gdc-12/?categories=De&media=v)
+- [GDC 2013: Design](http://www.gdcvault.com/free/gdc-13/?categories=De&media=v)
+- [GDC 2014: Design](http://www.gdcvault.com/free/gdc-14/?categories=De&media=v)
+- [GDC 2015: Design](http://www.gdcvault.com/free/gdc-15/?categories=De&media=v)
+- [GDC 2016: Design](http://www.gdcvault.com/free/gdc-16/?categories=De&media=v)
+- [GDC 2017: Design](http://www.gdcvault.com/free/gdc-17/?categories=De&media=v)
+- [GDC 2018: Design](http://www.gdcvault.com/free/gdc-18/?categories=De&media=v)
+- [GDC 2019: Design](http://www.gdcvault.com/free/gdc-19/?categories=De&media=v)
+- [GDC 2020: Design](http://www.gdcvault.com/free/gdc-20/?categories=De&media=v)
 
 ### GDC: Game Narrative
 
-- [GDC 2013: Game Design](http://www.gdcvault.com/free/gdc-13/?categories=Gn&media=v)
-- [GDC 2014: Game Design](http://www.gdcvault.com/free/gdc-14/?categories=Gn&media=v)
-- [GDC 2015: Game Design](http://www.gdcvault.com/free/gdc-15/?categories=Gn&media=v)
-- [GDC 2016: Game Design](http://www.gdcvault.com/free/gdc-16/?categories=Gn&media=v)
-- [GDC 2017: Game Design](http://www.gdcvault.com/free/gdc-17/?categories=Gn&media=v)
-- [GDC 2018: Game Design](http://www.gdcvault.com/free/gdc-18/?categories=Gn&media=v)
-- [GDC 2019: Game Design](http://www.gdcvault.com/free/gdc-19/?categories=Gn&media=v)
-- [GDC 2020: Game Design](http://www.gdcvault.com/free/gdc-20/?categories=Gn&media=v)
+- [GDC 2013: Game Narrative](http://www.gdcvault.com/free/gdc-13/?categories=Gn&media=v)
+- [GDC 2014: Game Narrative](http://www.gdcvault.com/free/gdc-14/?categories=Gn&media=v)
+- [GDC 2015: Game Narrative](http://www.gdcvault.com/free/gdc-15/?categories=Gn&media=v)
+- [GDC 2016: Game Narrative](http://www.gdcvault.com/free/gdc-16/?categories=Gn&media=v)
+- [GDC 2017: Game Narrative](http://www.gdcvault.com/free/gdc-17/?categories=Gn&media=v)
+- [GDC 2018: Game Narrative](http://www.gdcvault.com/free/gdc-18/?categories=Gn&media=v)
+- [GDC 2019: Game Narrative](http://www.gdcvault.com/free/gdc-19/?categories=Gn&media=v)
+- [GDC 2020: Game Narrative](http://www.gdcvault.com/free/gdc-20/?categories=Gn&media=v)
 
 ### GDC: Programming
 

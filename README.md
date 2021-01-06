@@ -2,7 +2,7 @@
 
 ## AI
 
-- Millington, Ian and Funge, John. 2009. *Artificial Intelligence for Games.* Second edition. Morgan Kaufmann Publishers.
+- Millington, Ian and Funge, John. 2009. *Artificial Intelligence for Games.* 2nd ed. Morgan Kaufmann Publishers.
 - Rabin, Steve. 2013. *[Game AI Pro](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).* CRC Press.
@@ -64,7 +64,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ## Programming
 
-- Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* Third edition. CRC Press.
+- Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* 3rd ed. CRC Press.
 
 ### Physics
 

@@ -28,6 +28,15 @@ Institute for Systems Research, University of Maryland, 2013.
 ### Behavior Trees
 
 - Thompson, Tommy. 2015. ["The Behaviour Tree AI of Halo 2"](https://www.youtube.com/watch?v=NU717sd8oUc). AI and Games, YouTube.
+- Thompson, Tommy. 2019. ["Behaviour Trees: The Cornerstone of Modern Game AI"](https://www.youtube.com/watch?v=6VBCXvfNlCM). AI 101, AI and Games, YouTube.
+
+### Finite State Machines
+
+- Thompson, Tommy. 2019. ["The AI of Half-Life: Finite State Machines"](https://www.youtube.com/watch?v=JyF0oyarz4U). AI 101, AI and Games, YouTube.
+
+### Monte Carlo Tree Search
+
+- Thompson, Tommy. 2018. ["Monte Carlo Tree Search"](https://www.youtube.com/watch?v=lhFXKNyA0QA). AI 101, AI and Games, YouTube.
 
 ### Utility Functions
 

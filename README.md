@@ -33,9 +33,11 @@
 
 #### Hierarchical Task Network Planning
 
-- [Exploring HTN Planners Through Example (Game AI Pro 1, Chapter 12)](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
-- [Pyhop](https://bitbucket.org/dananau/pyhop), a HTN planner implemented in Python
-- [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf), presentation about HTN planners and Pyhop
+- Humphreys, Troy. 2013. ["Exploring HTN Planners Through Example"](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf). Game AI Pro 1. CRC Press.
+- Nau, Dana. 2013. [Pyhop](https://bitbucket.org/dananau/pyhop). "A simple HTN planning system written in Python". Bitbucket.
+- Nau, Dana. ["Game Applications of HTN Planning with State Variables"](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf). Department of Computer Science and
+Institute for Systems Research, University of Maryland, 2013.
+- Thompson, Tommy. 2016. ["HTN Planning in Transformers: Fall of Cybertron"](https://www.youtube.com/watch?v=kXm467TFTcY). AI and Games, YouTube.
 
 #### Goal-Oriented Action Planning
 

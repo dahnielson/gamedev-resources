@@ -27,12 +27,17 @@
 - Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).* CRC Press.
 
-### Planning
+### HTN Planning
 
 - [Exploring HTN Planners Through Example (Game AI Pro 1, Chapter 12)](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf)
 - [Pyhop](https://bitbucket.org/dananau/pyhop), a HTN planner implemented in Python
 - [Game Applications of HTN Planning with State Variables (2013)](http://www.cs.umd.edu/~nau/papers/nau2013game.pdf), presentation about HTN planners and Pyhop
 - [Automated Planning: Theory and Practice (Slides)](http://www.cs.umd.edu/~nau/planning/slides/)
+
+### Goal-Oriented Action Planning
+
+- Orkin, Jeff. n.d. ["Goal-Oriented Action Planning (GOAP)"](http://alumni.media.mit.edu/~jorkin/goap.html). MIT.
+- Thompson, Tommy. 2020. ["Building the AI of F.E.A.R. with Goal Oriented Action Planning"](https://www.gamasutra.com/blogs/TommyThompson/20200507/362417/Building_the_AI_of_FEAR_with_Goal_Oriented_Action_Planning.php). Gamasutra.
 
 ## Audio
 

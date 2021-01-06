@@ -4,7 +4,7 @@
 
 - Salen, Katie and Zimmerman, Eric. 2004. *Rules of Play - Game Design Fundamentals.* MIT Press.
 
-## Level Design
+### Level Design
 
 - Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland"](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level). Game Design, Game Developers Conference, 2009.
 

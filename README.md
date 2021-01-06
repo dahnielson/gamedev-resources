@@ -6,18 +6,18 @@
 
 ## Level Design
 
-- Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland"](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level). Game Developers Conference, 2009.
+- Rogers, Scott. ["Everything I Learned About Level Design I Learned from Disneyland"](http://www.gdcvault.com/play/1305/Everything-I-Learned-About-Level). Game Design, Game Developers Conference, 2009.
 
 ## Narrative Generation
 
-- Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation"](http://gdcvault.com/play/1024143/Procedural-Narrative). Game Developers Conference, 2017.
-- Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other"](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How). Game Developers Conference, 2010.
--	Szczepanski, Leszek. ["Building Non-linear Narratives in 'Horizon: Zero Dawn'"](https://www.gdcvault.com/play/1024158/Building-Non-linear-Narratives-in). Game Developers Conferance, 2017.
+- Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation"](http://gdcvault.com/play/1024143/Procedural-Narrative). Game Narrative Summit, Game Developers Conference, 2017.
+- Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other"](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How). AI Summit, Game Developers Conference, 2010.
+-	Szczepanski, Leszek. ["Building Non-linear Narratives in 'Horizon: Zero Dawn'"](https://www.gdcvault.com/play/1024158/Building-Non-linear-Narratives-in). Game Narrative Summit, Game Developers Conferance, 2017.
 
 ## Procedural Content Generation
 
-- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). Game Developers Conference, 2015.
-- Coleman, Tyler, et al. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). Game Developers Conference, 2017.
+- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). AI Summit, Game Developers Conference, 2015.
+- Coleman, Tyler, et al. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). AI Summit, Game Developers Conference, 2017.
 
 ## AI
 
@@ -35,7 +35,7 @@
 ## Music
 
 - Phillips, Winifred. 2014. *[A Composer's Guide to Game Music](https://mitpress.mit.edu/books/composers-guide-game-music).* MIT Press.
-- Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes"](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to). Game Developers Conferance, 2020.
+- Phillips, Winifred. ["From 'Assassin's Creed' to 'The Dark Eye': The Importance of Themes"](https://www.gdcvault.com/play/1026747/From-Assassin-s-Creed-to). Audio, Game Developers Conferance, 2020.
 
 ## Programming
 

@@ -24,6 +24,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ##### Goal-Oriented Action Planning
 
+- Conway, Chris, Higley, Peter and Jacopin, Eric. ["Goal-Oriented Action Planning: Ten Years Old and No Fear!"](https://www.gdcvault.com/play/1022019/Goal-Oriented-Action-Planning-Ten). AI Summit, Game Developers Conference, 2015.
 - Orkin, Jeff. n.d. ["Goal-Oriented Action Planning (GOAP)"](http://alumni.media.mit.edu/~jorkin/goap.html). MIT.
 - Thompson, Tommy. 2020. ["Building the AI of F.E.A.R. with Goal Oriented Action Planning"](https://www.gamasutra.com/blogs/TommyThompson/20200507/362417/Building_the_AI_of_FEAR_with_Goal_Oriented_Action_Planning.php). Gamasutra.
 

@@ -41,11 +41,14 @@ Institute for Systems Research, University of Maryland, 2013.
 
 - Thompson, Tommy. 2018. ["Monte Carlo Tree Search"](https://www.youtube.com/watch?v=lhFXKNyA0QA). AI 101, AI and Games, YouTube.
 
-#### Utility Functions
+#### Utility System
 
-- Lewis, Mark. ["Winding Road Ahead: Designing Utility AI with Curvature"](https://www.gdcvault.com/play/1025310/Winding-Road-Ahead-Designing-Utility). AI summit, Game Developers Conference, 2018.
+- Dicken, Luke, Dini, Dino and Dave Mark. ["Architecture Tricks: Managing Behaviors in Time, Space, and Depth"](https://www.gdcvault.com/play/1018040/Architecture-Tricks-Managing-Behaviors-in). AI Summit, Game Developers Conference, 2013.
+- Lewis, Mike and Mark, Dave. ["Building a Better Centaur: AI at Massive Scale"](https://www.gdcvault.com/play/1021848/Building-a-Better-Centaur-AI). AI Summit, Game Developers Conference, 2015.
+- Lewis, Mike. ["Winding Road Ahead: Designing Utility AI with Curvature"](https://www.gdcvault.com/play/1025310/Winding-Road-Ahead-Designing-Utility). AI summit, Game Developers Conference, 2018.
 - Mark, Dave. 2009. *Behavioral Mathematics for Game AI.* Charles River Media.
 - Mark, Dave and Dill, Kevin. ["Improving AI Decision Modeling Through Utility Theory"](https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through). AI Summit, Game Developers Conference, 2010.
+- Mark, Dave and Dill, Kevin. ["Embracing the Dark Art of Mathematical Modeling in AI"](https://www.gdcvault.com/play/1015683/Embracing-the-Dark-Art-of). AI Summit, Game Developers Conference, 2012.
 
 ### Navigation
 

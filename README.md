@@ -42,6 +42,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 #### Utility Functions
 
+- Lewis, Mark. ["Winding Road Ahead: Designing Utility AI with Curvature"](https://www.gdcvault.com/play/1025310/Winding-Road-Ahead-Designing-Utility). AI summit, Game Developers Conference, 2018.
 - Mark, Dave. 2009. *Behavioral Mathematics for Game AI.* Charles River Media.
 - Mark, Dave and Dill, Kevin. ["Improving AI Decision Modeling Through Utility Theory"](https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through). AI Summit, Game Developers Conference, 2010.
 

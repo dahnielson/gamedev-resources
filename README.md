@@ -46,6 +46,10 @@ Institute for Systems Research, University of Maryland, 2013.
 - Mark, Dave. 2009. *Behavioral Mathematics for Game AI.* Charles River Media.
 - Mark, Dave and Dill, Kevin. ["Improving AI Decision Modeling Through Utility Theory"](https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through). AI Summit, Game Developers Conference, 2010.
 
+### Navigation
+
+- Thompson, Tommy. 2018. ["How A Navigation Mesh Works in 3D Games"](https://www.youtube.com/watch?v=U5MTIh_KyBc). AI 101, AI and Games, YouTube.
+
 ### Procedural Content Generation
 
 - Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). AI Summit, Game Developers Conference, 2015.

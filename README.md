@@ -7,12 +7,14 @@
 - Rabin, Steve. 2015. *[Game AI Pro 2](http://www.gameaipro.com/).* CRC Press.
 - Rabin, Steve. 2017. *[Game AI Pro 3](http://www.gameaipro.com/).* CRC Press.
 
-### Automated Planning
+### Decisions
+
+#### Automated Planning
 
 - Nau, Dana. ["Automated Planning: Theory and Practice"](http://www.cs.umd.edu/~nau/planning/slides/). Department of Computer Science and
 Institute for Systems Research, University of Maryland, 2013.
 
-#### Hierarchical Task Network Planning
+##### Hierarchical Task Network Planning
 
 - Humphreys, Troy. 2013. ["Exploring HTN Planners Through Example"](http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter12_Exploring_HTN_Planners_through_Example.pdf). Game AI Pro 1. CRC Press.
 - Nau, Dana. 2013. [Pyhop](https://bitbucket.org/dananau/pyhop). "A simple HTN planning system written in Python". Bitbucket.
@@ -20,28 +22,33 @@ Institute for Systems Research, University of Maryland, 2013.
 Institute for Systems Research, University of Maryland, 2013.
 - Thompson, Tommy. 2016. ["HTN Planning in Transformers: Fall of Cybertron"](https://www.youtube.com/watch?v=kXm467TFTcY). AI and Games, YouTube.
 
-#### Goal-Oriented Action Planning
+##### Goal-Oriented Action Planning
 
 - Orkin, Jeff. n.d. ["Goal-Oriented Action Planning (GOAP)"](http://alumni.media.mit.edu/~jorkin/goap.html). MIT.
 - Thompson, Tommy. 2020. ["Building the AI of F.E.A.R. with Goal Oriented Action Planning"](https://www.gamasutra.com/blogs/TommyThompson/20200507/362417/Building_the_AI_of_FEAR_with_Goal_Oriented_Action_Planning.php). Gamasutra.
 
-### Behavior Trees
+#### Behavior Trees
 
 - Thompson, Tommy. 2015. ["The Behaviour Tree AI of Halo 2"](https://www.youtube.com/watch?v=NU717sd8oUc). AI and Games, YouTube.
 - Thompson, Tommy. 2019. ["Behaviour Trees: The Cornerstone of Modern Game AI"](https://www.youtube.com/watch?v=6VBCXvfNlCM). AI 101, AI and Games, YouTube.
 
-### Finite State Machines
+#### Finite State Machines
 
 - Thompson, Tommy. 2019. ["The AI of Half-Life: Finite State Machines"](https://www.youtube.com/watch?v=JyF0oyarz4U). AI 101, AI and Games, YouTube.
 
-### Monte Carlo Tree Search
+#### Monte Carlo Tree Search
 
 - Thompson, Tommy. 2018. ["Monte Carlo Tree Search"](https://www.youtube.com/watch?v=lhFXKNyA0QA). AI 101, AI and Games, YouTube.
 
-### Utility Functions
+#### Utility Functions
 
 - Mark, Dave. 2009. *Behavioral Mathematics for Game AI.* Charles River Media.
 - Mark, Dave and Dill, Kevin. ["Improving AI Decision Modeling Through Utility Theory"](https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through). AI Summit, Game Developers Conference, 2010.
+
+### Procedural Content Generation
+
+- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). AI Summit, Game Developers Conference, 2015.
+- Coleman, Tyler, et al. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). AI Summit, Game Developers Conference, 2017.
 
 ## Audio
 
@@ -68,11 +75,6 @@ Institute for Systems Research, University of Maryland, 2013.
 - Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation"](http://gdcvault.com/play/1024143/Procedural-Narrative). Game Narrative Summit, Game Developers Conference, 2017.
 - Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other"](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How). AI Summit, Game Developers Conference, 2010.
 -	Szczepanski, Leszek. ["Building Non-linear Narratives in 'Horizon: Zero Dawn'"](https://www.gdcvault.com/play/1024158/Building-Non-linear-Narratives-in). Game Narrative Summit, Game Developers Conferance, 2017.
-
-## Procedural Content Generation
-
-- Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). AI Summit, Game Developers Conference, 2015.
-- Coleman, Tyler, et al. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). AI Summit, Game Developers Conference, 2017.
 
 ## Programming
 

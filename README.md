@@ -83,6 +83,8 @@ Institute for Systems Research, University of Maryland, 2013.
 
 - Cardona-Rivera, Rogelio and Martens, Chris. ["Procedural Narrative Generation"](http://gdcvault.com/play/1024143/Procedural-Narrative). Game Narrative Summit, Game Developers Conference, 2017.
 - Kline, Daniel, Mateas, Michael and Short, Emily. ["AI and Interactive Storytelling: How We Can Help Each Other"](http://www.gdcvault.com/play/1012421/AI-and-Interactive-Storytelling-How). AI Summit, Game Developers Conference, 2010.
+- Storybricks. (2012) ["Storybricks Alpha Gameplay"](https://www.youtube.com/watch?v=V3b_3UGc7Es). Storybricks, YouTube.
+- Storybricks. (2014) ["Storybricks Engine demo (Vienna Game AI conference)"](https://www.youtube.com/watch?v=id-3sUo_DFU). Storybricks, YouTube.
 -	Szczepanski, Leszek. ["Building Non-linear Narratives in 'Horizon: Zero Dawn'"](https://www.gdcvault.com/play/1024158/Building-Non-linear-Narratives-in). Game Narrative Summit, Game Developers Conferance, 2017.
 
 ## Programming

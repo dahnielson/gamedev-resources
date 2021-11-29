@@ -29,7 +29,11 @@
 
 - [Coherent Gameface](https://coherent-labs.com/products/coherent-gameface/) by Coherent Labs
 - [Ultralight](https://ultralig.ht/) by Ultralight
- 
+
+## Vegitation
+
+- [SpeedTree](https://store.speedtree.com/) by Interactive Data Visualization (Unity)
+
 ## VFX
 
 - [PopcornFX](https://www.popcornfx.com/) by Persistant Studios

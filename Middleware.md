@@ -2,7 +2,7 @@
 
 ## Audio
 
-- [FMOD](https://www.fmod.com/)¨from Firelight Technologies
+- [FMOD](https://www.fmod.com/) from Firelight Technologies
 - [Wwise](https://www.audiokinetic.com/products/wwise/) from Audiokinetic
 
 ## Mesh Optimization

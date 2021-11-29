@@ -12,6 +12,7 @@
 ## Networking
 
 - [Photon](https://www.photonengine.com/) by Exit Games
+- [PlayFab](https://playfab.com/) by Microsoft
 - [RakNet](http://www.jenkinssoftware.com/) by Oculus (Facebook)
 
 ## Physics

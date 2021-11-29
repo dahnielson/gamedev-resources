@@ -30,7 +30,7 @@
 - [Coherent Gameface](https://coherent-labs.com/products/coherent-gameface/) by Coherent Labs
 - [Ultralight](https://ultralig.ht/) by Ultralight
 
-## Vegitation
+## Vegetation
 
 - [SpeedTree](https://store.speedtree.com/) by Interactive Data Visualization (Unity)
 

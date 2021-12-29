@@ -28,6 +28,7 @@
 ## User Interface
 
 - [Coherent Gameface](https://coherent-labs.com/products/coherent-gameface/) by Coherent Labs
+- [NoesisGUI](https://noesisengine.com/) by Noesis Technologies
 - [Ultralight](https://ultralig.ht/) by Ultralight
 
 ## Vegetation

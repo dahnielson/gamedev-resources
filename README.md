@@ -89,6 +89,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ## Programming
 
+- Engel, Wolfganag. 2018. *GPU Pro 360 Guide to 3D Engine Design*. A K Peters/CRC Press.
 - Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* 3rd ed. CRC Press.
 
 ### Physics
@@ -96,3 +97,15 @@ Institute for Systems Research, University of Maryland, 2013.
 - van den Bergen, Gino. 2003. *Collision Detection in Interactive 3D Environments*. Morgan Kaufmann Publishers.
 - Ericson, Christer. 2004. *Real-Time Collision Detection*. Morgan Kaufmann Publishers.
 - Millington, Ian. 2006. *Game Physics Engine Development*. Morgan Kaufmann Publishers.
+
+### Rendering
+
+- Akenine-Möller, Tomas. 2018. *Real-Time Rendering, Fourth Edition*. A K Peters/CRC Press.
+- Engel, Wolfgang. 2018. *GPU Pro 360 Guide to Geometry Manipulation*. A K Peters/CRC Press.
+- Engel, Wolfgang. 2018. *GPU Pro 360 Guide to Image Space*. A K Peters/CRC Press. 
+- Engel, Wolfgang. 2018. *GPU Pro 360 Guide to Lighting*. A K Peters/CRC Press.
+- Engel, Wolfgang. 2018. *GPU Pro 360 Guide to Rendering*. A K Peters/CRC Press.
+- Engel, Wolfgang. 2018. *GPU Pro 360 Guide to Shadows*. A K Peters/CRC Press.
+- Engel, Wolfgang. 2017. *GPU Zen: Advanced Rendering Techniques*. 
+- Engel, Wolfgang. 2018. *GPU Zen 2: Advanced Rendering Techniques*. 
+- Zink, Jason. 2011. *Practical Rendering and Computation with Direct3D 11*.  A K Peters/CRC Press.

@@ -14,6 +14,7 @@
 - [GDC 2018: AI Summit](http://www.gdcvault.com/free/gdc-18/?categories=Ai&media=v)
 - [GDC 2019: AI Summit](http://www.gdcvault.com/free/gdc-19/?categories=Ai&media=v)
 - [GDC 2020: AI Summit](http://www.gdcvault.com/free/gdc-20/?categories=Ai&media=v)
+- [GDC 2021: AI Summit](http://www.gdcvault.com/free/gdc-21/?categories=Ai&media=v)
 
 ## GDC: Audio
 
@@ -29,6 +30,7 @@
 - [GDC 2018: Audio](http://www.gdcvault.com/free/gdc-18/?categories=Au&media=v)
 - [GDC 2019: Audio](http://www.gdcvault.com/free/gdc-19/?categories=Au&media=v)
 - [GDC 2020: Audio](http://www.gdcvault.com/free/gdc-20/?categories=Au&media=v)
+- [GDC 2021: Audio](http://www.gdcvault.com/free/gdc-21/?categories=Au&media=v)
 
 ## GDC: Design
 
@@ -51,6 +53,7 @@
 - [GDC 2018: Design](http://www.gdcvault.com/free/gdc-18/?categories=De&media=v)
 - [GDC 2019: Design](http://www.gdcvault.com/free/gdc-19/?categories=De&media=v)
 - [GDC 2020: Design](http://www.gdcvault.com/free/gdc-20/?categories=De&media=v)
+- [GDC 2021: Design](http://www.gdcvault.com/free/gdc-21/?categories=De&media=v)
 
 ## GDC: Game Narrative
 
@@ -62,6 +65,7 @@
 - [GDC 2018: Game Narrative](http://www.gdcvault.com/free/gdc-18/?categories=Gn&media=v)
 - [GDC 2019: Game Narrative](http://www.gdcvault.com/free/gdc-19/?categories=Gn&media=v)
 - [GDC 2020: Game Narrative](http://www.gdcvault.com/free/gdc-20/?categories=Gn&media=v)
+- [GDC 2021: Game Narrative](http://www.gdcvault.com/free/gdc-21/?categories=Gn&media=v)
 
 ## GDC: Programming
 
@@ -81,6 +85,7 @@
 - [GDC 2018: Programming](http://www.gdcvault.com/free/gdc-18/?categories=Pg&media=v)
 - [GDC 2019: Programming](http://www.gdcvault.com/free/gdc-19/?categories=Pg&media=v)
 - [GDC 2020: Programming](http://www.gdcvault.com/free/gdc-20/?categories=Pg&media=v)
+- [GDC 2021: Programming](http://www.gdcvault.com/free/gdc-21/?categories=Pg&media=v)
 
 ## GDC: Visual Arts
 
@@ -96,3 +101,4 @@
 - [GDC 2018: Visual Arts](http://www.gdcvault.com/free/gdc-18/?categories=Va&media=v)
 - [GDC 2019: Visual Arts](http://www.gdcvault.com/free/gdc-19/?categories=Va&media=v)
 - [GDC 2020: Visual Arts](http://www.gdcvault.com/free/gdc-20/?categories=Va&media=v)
+- [GDC 2021: Visual Arts](http://www.gdcvault.com/free/gdc-21/?categories=Va&media=v)

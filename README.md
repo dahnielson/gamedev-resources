@@ -91,6 +91,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 - Engel, Wolfganag. 2018. *GPU Pro 360 Guide to 3D Engine Design*. A K Peters/CRC Press.
 - Gregory, Jason. 2018. *[Game Engine Architecture](https://www.gameenginebook.com/).* 3rd ed. CRC Press.
+- Nystrom, Robert. 2014. *[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)*. Genever Benning.
 
 ### Physics
 

@@ -59,6 +59,12 @@ Institute for Systems Research, University of Maryland, 2013.
 - Sturtevant, Nathan, Smith, Gillian and Togelius, Julian. ["Making Things Up: The Power and Peril of PCG"](http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power). AI Summit, Game Developers Conference, 2015.
 - Coleman, Tyler, et al. ["PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"](http://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for). AI Summit, Game Developers Conference, 2017.
 
+## Art
+
+### Texturing
+
+- Olsen, Morten. ["The Ultimate Trim: Texturing Techniques of Sunset Overdrive"](https://www.gdcvault.com/play/1022323/The-Ultimate-Trim-Texturing-Techniques). Visual Arts, Game Developers Conference, 2015.
+
 ## Audio
 
 ### Music

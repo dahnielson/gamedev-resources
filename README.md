@@ -72,6 +72,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ### Level Design
 
+- Burgess, Joel. ["Skyrim's Modular Approach to Level Design"](http://blog.joelburgess.com/2013/04/skyrims-modular-level-design-gdc-2013.html). 2013.
 - Burgess, Joel. ["Level Design in a Day: How We Used Iterative Level Design to Ship Skyrim and Fallout 3"](https://www.gdcvault.com/play/1020777/Level-Design-in-a-Day). Production, Game Developers Conference, 2014.
 - Burgess, Joel. ["Level Design in a Day: How Modding Made Bethesda Better"](https://www.gdcvault.com/play/1022107/Level-Design-in-a-Day). Production, Game Developers Conference, 2015.
 - Burgess, Joel and Purkeypile, Nathan. ["'Fallout 4's' Modular Level Design"](https://www.gdcvault.com/play/1023202/-Fallout-4-s-Modular). Visual Arts, Game Developers Conference, 2016.

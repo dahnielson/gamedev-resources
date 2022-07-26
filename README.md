@@ -65,7 +65,7 @@ Institute for Systems Research, University of Maryland, 2013.
 
 #### Physically Based Rendering
 
-- McDermott, Wes. 2018. *["PBR Guide"](https://substance3d.adobe.com/tutorials/courses/pbrguide).* Adobe.
+- McDermott, Wes. 2018. *[PBR Guide](https://substance3d.adobe.com/tutorials/courses/pbrguide).* Adobe.
 
 #### Trim Sheets
 

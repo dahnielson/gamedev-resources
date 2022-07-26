@@ -63,6 +63,10 @@ Institute for Systems Research, University of Maryland, 2013.
 
 ### Texturing
 
+#### Physically Based Rendering
+
+- McDermott, Wes. 2018. *["PBR Guide"](https://substance3d.adobe.com/tutorials/courses/pbrguide).* Adobe.
+
 #### Trim Sheets
 
 - Olsen, Morten. ["The Ultimate Trim: Texturing Techniques of Sunset Overdrive"](https://www.gdcvault.com/play/1022323/The-Ultimate-Trim-Texturing-Techniques). Visual Arts, Game Developers Conference, 2015.

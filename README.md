@@ -64,6 +64,10 @@ Institute for Systems Research, University of Maryland, 2013.
 ### Texturing
 
 - Olsen, Morten. ["The Ultimate Trim: Texturing Techniques of Sunset Overdrive"](https://www.gdcvault.com/play/1022323/The-Ultimate-Trim-Texturing-Techniques). Visual Arts, Game Developers Conference, 2015.
+- Simpson, Tim. 2019. ["Planning & Creating Trim Sheets For Games - Trim Texture Tutorial Part 1"](https://www.youtube.com/watch?v=DipfrjCgYW8). Polygon Academy, YouTube.
+- Simpson, Tim. 2019. ["Sculpting Trim Sheets in ZBrush - Trim Texture Tutorial Part 2"](https://www.youtube.com/watch?v=Tspveb9bjYA). Polygon Academy, YouTube.
+- Simpson, Tim. 2019. ["Trim Sheets in Substance Painter: Normal Map Baking + Smart Materials - Trim Texture Tutorial Part 3"](https://www.youtube.com/watch?v=CarefswACgs). Polygon Academy, YouTube.
+- Simpson, Tim. 2019. ["Quick and Easy Trim Sheet UV Mapping Tips -Trim Texture Tutorial Part 4"](https://www.youtube.com/watch?v=VEHsZniXguY). Polygon Academy, YouTube.
 
 ## Audio
 
